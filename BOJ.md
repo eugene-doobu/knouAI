@@ -9,3 +9,9 @@
 - [최소 편집 - 15483](https://www.acmicpc.net/problem/15483) :: [정답](https://github.com/eugene-doobu/eugene-baekjoon/blob/master/cpp/boj/dynamic/15483.cpp)
 - [플로이드 - 11404](https://www.acmicpc.net/problem/11404) :: [정답](https://github.com/eugene-doobu/eugene-baekjoon/blob/master/cpp/boj/graph/11404.cpp)
 - [양팔 저울 - 2629](https://www.acmicpc.net/problem/2629) :: [정답](https://github.com/eugene-doobu/eugene-baekjoon/blob/master/cpp/boj/dynamic/2629.cpp)
+
+# 4장 - 욕심쟁이 알고리즘
+
+- 동전 거스름돈 문제
+- 배낭 문제
+- 최소 신장 트리
