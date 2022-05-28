@@ -17,5 +17,5 @@
 
 # 9장 - 해 탐색 알고리즘
 
-- 0/1 배낭 문제
-- 외판원 문제
+- [평범한 배낭 - 12865](https://www.acmicpc.net/problem/12865) :: [정답](https://github.com/eugene-doobu/eugene-baekjoon/blob/master/_nonmainstreamLang/python3/Dynamic/12865.py)
+- [양팔 저울 - 2629](https://www.acmicpc.net/problem/2098) :: [정답](https://github.com/eugene-doobu/eugene-baekjoon/blob/master/boj/dynamic/2098.cpp)
