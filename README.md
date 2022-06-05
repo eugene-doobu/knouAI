@@ -8,4 +8,6 @@
 - [분할정복 알고리즘](https://doobudubu.tistory.com/255)
 - [욕심쟁이 알고리즘](https://doobudubu.tistory.com/272)
 - [정렬 알고리즘](https://doobudubu.tistory.com/273)
+- [탐색 알고리즘](https://doobudubu.tistory.com/281)
+- [근사 알고리즘](https://doobudubu.tistory.com/282)
 - 
