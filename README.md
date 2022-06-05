@@ -10,4 +10,5 @@
 - [정렬 알고리즘](https://doobudubu.tistory.com/273)
 - [탐색 알고리즘](https://doobudubu.tistory.com/281)
 - [근사 알고리즘](https://doobudubu.tistory.com/282)
+- [해 탐사 알고리즘](https://doobudubu.tistory.com/283)
 - 
